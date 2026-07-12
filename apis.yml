@@ -14,6 +14,8 @@ tags:
   - Digital Services
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/spitab-domain-security.yml
   - type: Website
     url: https://www.spitab.com
 maintainers:
